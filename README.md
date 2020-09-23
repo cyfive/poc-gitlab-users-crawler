@@ -1,6 +1,6 @@
 # poc-gitlab-users-crawler
 ## Disclaimer
-Use this script only authorized systems. Crawling user information may break you local laws.
+Use this script only on authorized systems. Crawling user information may break you local laws.
 
 ## Usage
 Edit variable `gitlab_url` in file `gitlab-users-crawler.py` with target GitLab url.
